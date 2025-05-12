@@ -1,0 +1,7 @@
+Sanitizes post content using bleach to block malicious <script> injections
+
+Flash messages for user feedback (e.g. login failure, registration success)
+
+Sessions used for authentication state management
+
+Ready for password hashing integration (werkzeug.security recommended)
