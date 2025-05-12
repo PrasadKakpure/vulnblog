@@ -1,0 +1,11 @@
+🔐 User Authentication (Register/Login/Logout)
+
+✍️ Create & View Blog Posts
+
+🔎 Search Posts by Title
+
+🚫 Cross-Site Scripting (XSS) Protection via input sanitization (bleach)
+
+⚠️ 404 Error Handling
+
+💡 Clean separation of templates using Jinja2
