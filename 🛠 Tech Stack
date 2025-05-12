@@ -1,0 +1,9 @@
+Python 3.x
+
+Flask
+
+Flask-WTF
+
+SQLite (via SQLAlchemy)
+
+Bleach (for sanitizing input)
