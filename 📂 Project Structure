@@ -1,0 +1,13 @@
+vulnblog/
+│
+├── app.py                # Main Flask application
+├── users.db              # SQLite DB file (auto-generated)
+├── templates/            # HTML templates (Jinja2)
+│   ├── index.html
+│   ├── login.html
+│   ├── register.html
+│   ├── create.html
+│   └── 404.html
+├── static/               # (Optional) Static files like CSS/images
+├── README.md             # Project description and instructions
+└── requirements.txt      # Python dependencies
