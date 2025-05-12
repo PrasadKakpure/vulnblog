@@ -1,0 +1,4 @@
+https://github.com/PrasadKakpure/vulnblog.git
+cd vulnblog
+pip install -r requirements.txt
+python app.py
