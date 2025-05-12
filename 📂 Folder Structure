@@ -1,0 +1,12 @@
+vulnblog/
+│
+├── app.py                # Main Flask app
+├── templates/            # Jinja2 HTML templates
+│   ├── index.html
+│   ├── login.html
+│   ├── register.html
+│   ├── create.html
+│   └── 404.html
+├── static/               # (Optional) Static files like CSS/images
+├── users.db              # SQLite DB file (auto-created)
+└── README.md
