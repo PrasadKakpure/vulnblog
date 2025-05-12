@@ -1,0 +1,5 @@
+This project was built as part of a cybersecurity learning journey.
+
+Passwords are currently stored in plaintext for demo purposes. Use generate_password_hash() and check_password_hash() in production.
+
+Meant for educational and portfolio use.
